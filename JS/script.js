@@ -29,7 +29,7 @@ function redireccion_GitHub_BancoBrutal() {
  */
 function openEmail() {
     // Abrir enlace al hacer clic
-    window.location.href = "mailto:manu8934lok@gmail.com";
+    window.location.href = "mailto:juanmguarnizoc@gmail.com";
 }
 
 function openLinkedIn() {
